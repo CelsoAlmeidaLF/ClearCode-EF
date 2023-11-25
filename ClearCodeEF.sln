@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systekna.Application", "Application\Systekna.Application\Systekna.Application.csproj", "{13CC4F67-E84F-4FED-9951-49311014943C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Systekna.Application", "Application\Systekna.Application\Systekna.Application.csproj", "{13CC4F67-E84F-4FED-9951-49311014943C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systekna.Core", "Core\Systekna.Core\Systekna.Core.csproj", "{6047F4F9-6C3B-492F-A0D7-65BED6FCAB39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Systekna.Core", "Core\Systekna.Core\Systekna.Core.csproj", "{6047F4F9-6C3B-492F-A0D7-65BED6FCAB39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClearCode", "ClearCode", "{08436A85-7047-441C-9D9C-CF4BC38E2D82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TDD", "TDD", "{878407DA-9F2F-436C-98A8-D6EF075334DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TDD\TestApplication\TestApplication.csproj", "{BDA1AD8E-74F2-417B-A692-4433C2D54435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApplication", "TDD\TestApplication\TestApplication.csproj", "{BDA1AD8E-74F2-417B-A692-4433C2D54435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systekna.Infrasctruture", "Infrasctruture\Systekna.Infrasctruture\Systekna.Infrasctruture.csproj", "{0132D072-202D-4FC1-9DF6-1E695F824DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Systekna.Infrasctruture", "Infrasctruture\Systekna.Infrasctruture\Systekna.Infrasctruture.csproj", "{0132D072-202D-4FC1-9DF6-1E695F824DEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
